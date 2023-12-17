@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
 
 import random
 
@@ -33,10 +28,3 @@ elif score == -1:
     print("You Lose")
 else:
     print("You Won")
-
-
-# In[ ]:
-
-
-
-
